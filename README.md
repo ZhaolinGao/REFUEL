@@ -2,7 +2,7 @@
 
 Zhaolin Gao, Wenhao Zhan, Jonathan D. Chang, Gokul Swamy, Kiante Brantley, Jason D. Lee, Wen Sun.
 
-![front page](./figs/refuel_ffig.pdf)
+![front page](./figs/refuel_ffig.png)
 
 ## Environment
 
