@@ -1,6 +1,7 @@
 # Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF
-
 Zhaolin Gao, Wenhao Zhan, Jonathan D. Chang, Gokul Swamy, Kiante Brantley, Jason D. Lee, Wen Sun.
+
+This repo covers the implementation for our paper [REFUEL](https://arxiv.org/abs/2410.04612).
 
 ![front page](./figs/refuel_ffig.png)
 
@@ -200,3 +201,17 @@ accelerate launch \
 ```task.query_dataset```: the repo of the processed dataset.
 
 ```output_dir```: local save directory.
+
+## Cite
+Please cite our paper if you use this implementation in your own work:
+```
+@misc{gao2024regressingrelativefutureefficient,
+      title={Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF}, 
+      author={Zhaolin Gao and Wenhao Zhan and Jonathan D. Chang and Gokul Swamy and Kianté Brantley and Jason D. Lee and Wen Sun},
+      year={2024},
+      eprint={2410.04612},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.04612}, 
+}
+```
